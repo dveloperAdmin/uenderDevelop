@@ -1,2 +1,7 @@
-# uenderDevelop
-Every project 
+**eTAS (Easy Track Attendance System)** is a robust attendance management system developed by Anirban Pal. It is designed to streamline the process of tracking employee attendance and providing comprehensive reports. The system utilizes a combination of HTML, CSS, and JavaScript for the front end, ensuring a user-friendly interface. On the backend, PHP and Microsoft SQL are employed to handle the database operations efficiently.
+
+One of the primary objectives of eTAS is to address the challenges faced by traditional attendance systems that rely on manual entry into Excel sheets. In such systems, time tracking is often not accounted for, leading to incomplete attendance records. eTAS tackles this issue by incorporating a sophisticated time tracking mechanism.
+
+The system allows for the recording of various attendance statuses such as present, absent, week off, and others. By capturing these statuses, eTAS generates detailed reports that provide a comprehensive view of each employee's attendance history. This includes not only the status (present, absent, etc.) but also the time duration for which the employee was present.
+
+With eTAS, organizations can automate their attendance management process, eliminate manual errors, and gain valuable insights into employee attendance patterns. This results in improved efficiency, better resource allocation, and accurate payroll calculations based on actual hours worked
